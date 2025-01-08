@@ -10,7 +10,7 @@
 - **Phone:** +502 4290-0009  
 - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
 - **Portfolio:** [Your Portfolio](https://yourportfolio.com)  
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)  
+- **GitHub:** (https://github.com/pascal1010100) 
 
 ---
 

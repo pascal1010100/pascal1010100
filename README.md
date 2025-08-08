@@ -40,11 +40,11 @@ Deployment with Vercel
 🌟 About Me
 I am a self-taught web developer with over 3 years of hands-on experience building real-world projects, including:
 
-E-commerce Catalog: Functional shopping cart, checkout, and order processing via Resend API.
+E-commerce Catalog → Functional shopping cart, checkout, and order processing via Resend API.
 
-pascal.dev Blog: Dynamic content, modern UI/UX, and optimized performance.
+pascal.dev Blog → Dynamic content, modern UI/UX, and optimized performance.
 
-Portfolio Website: Showcasing projects, skills, and contact form integration.
+Portfolio Website → Showcasing projects, skills, and contact form integration.
 
 I focus on clean code, performance optimization, and delivering visually striking interfaces that provide excellent user experiences.
 
@@ -56,3 +56,4 @@ Expand my knowledge in DevOps and modern deployment pipelines.
 Build scalable, impactful projects that merge creativity with functionality.
 
 Let’s connect and create something amazing! 🚀
+

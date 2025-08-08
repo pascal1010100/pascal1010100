@@ -1,44 +1,58 @@
-# 👋 Hi, I'm José Manuel Aguilar Cruz  
-### 💻 Aspiring Full-Stack Web Developer | Technology Enthusiast  
+👋 Hi, I'm José Manuel Aguilar Cruz
+💻 Full-Stack Web Developer | UI/UX Enthusiast | Technology Explorer
+🌎 Passionate about creating modern, interactive, and high-performance web applications.
 
-🌎 **Passionate about learning and growing in the world of web development.**  
+📫 Contact Information
+Email: josemanu0885@gmail.com
 
----
+Phone: +502 4290-0009
 
-## 📫 Contact Information  
-- **Email:** josemanu0885@gmail.com  
-- **Phone:** +502 4290-0009  
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-- **Portfolio:** [Your Portfolio](https://yourportfolio.com)  
-- **GitHub:** (https://github.com/pascal1010100) 
+LinkedIn: linkedin.com/in/josema-aguilar-dev
 
----
+Portfolio: portafolio1010100.vercel.app
 
-## 🛠️ Skills  
+GitHub: github.com/pascal1010100
 
-### **Programming and Technologies**  
-- **Frontend Development:** HTML | CSS | JavaScript  
-- **Backend Development:** Node.js | Express.js  
-- **Version Control:** Git | GitHub  
-- **Database Management:** MongoDB | SQL  
-- **API Development:** RESTful APIs  
-- **Ongoing Learning:** Exploring modern frameworks and libraries to enhance web development expertise.  
+🛠️ Skills
+Frontend Development
+HTML | CSS | JavaScript (ES6+)
 
----
+React.js | Next.js | Tailwind CSS | ShadCN UI
 
-## 🌟 About Me  
-I am an aspiring web developer who enjoys learning new technologies and solving challenges through code. I am currently building my skills in full-stack web development, focusing on both the frontend and backend aspects of creating modern web applications.  
+Backend Development
+Node.js | Express.js
 
-I believe in the power of continuous learning and improvement, and I enjoy exploring tools and frameworks that help me become a better developer. My goal is to contribute to meaningful projects while growing as a professional in the tech field.  
+API Development (REST)
 
----
+Databases
+MongoDB
 
+Tools & Version Control
+Git | GitHub | GitKraken
 
-## 🎯 Career Goals  
-- Continue learning and mastering web development tools and frameworks.  
-- Build projects that solve real-world challenges and showcase my growth as a developer.  
-- Collaborate with others in the tech community to learn and create impactful solutions.  
+Other Skills
+Responsive & Accessible UI/UX Design
 
----
+SEO Optimization
 
-**Let’s build something amazing together!**  
+Deployment with Vercel
+
+🌟 About Me
+I am a self-taught web developer with over 3 years of hands-on experience building real-world projects, including:
+
+E-commerce Catalog: Functional shopping cart, checkout, and order processing via Resend API.
+
+pascal.dev Blog: Dynamic content, modern UI/UX, and optimized performance.
+
+Portfolio Website: Showcasing projects, skills, and contact form integration.
+
+I focus on clean code, performance optimization, and delivering visually striking interfaces that provide excellent user experiences.
+
+🎯 Career Goals
+Work as a Frontend or Full-Stack Web Developer in a collaborative and innovative environment.
+
+Expand my knowledge in DevOps and modern deployment pipelines.
+
+Build scalable, impactful projects that merge creativity with functionality.
+
+Let’s connect and create something amazing! 🚀

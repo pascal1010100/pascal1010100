@@ -1,6 +1,9 @@
-Hi there 👋! I'm José Manuel Aguilar Cruz
-💻 Full-Stack Web Developer
-🌌 Passionate about building modern, interactive, and high-performance web applications.
+<h1 align="center" style="font-size: 3rem;">
+  Hi there 👋! I'm <span style="color:#00FFFF;">José Manuel Aguilar Cruz</span>
+</h1>
+
+💻 **Full-Stack Web Developer**  
+🌌 Passionate about building modern, interactive, and high-performance web applications.  
 
 📬 Contact: Email | 🌐 Portfolio:[ Portfolio Website ](https://portafolio1010100.vercel.app/)| 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/josema-aguilar-dev/) | 🖥️ GitHub: [GitHub Profile](https://github.com/pascal1010100)
 

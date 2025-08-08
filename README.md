@@ -1,59 +1,32 @@
-👋 Hi, I'm José Manuel Aguilar Cruz
-💻 Full-Stack Web Developer | UI/UX Enthusiast | Technology Explorer
-🌎 Passionate about creating modern, interactive, and high-performance web applications.
+Hi there 👋! I'm José Manuel Aguilar Cruz
+💻 Full-Stack Web Developer
+🌌 Passionate about building modern, interactive, and high-performance web applications.
 
-📫 Contact Information
-Email: josemanu0885@gmail.com
+📬 Contact: Email | 🌐 Portfolio:[ Portfolio Website ](https://portafolio1010100.vercel.app/)| 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/josema-aguilar-dev/) | 🖥️ GitHub: [GitHub Profile](https://github.com/pascal1010100)
 
-Phone: +502 4290-0009
+🛠 Skills
+Frontend: HTML | CSS | JavaScript (ES6+) | React.js | Next.js | Tailwind CSS | ShadCN UI
 
-LinkedIn: linkedin.com/in/josema-aguilar-dev
+Backend: Node.js | Express.js
 
-Portfolio: portafolio1010100.vercel.app
+Databases: MongoDB
 
-GitHub: github.com/pascal1010100
+Version Control: Git | GitHub | GitKraken
 
-🛠️ Skills
-Frontend Development
-HTML | CSS | JavaScript (ES6+)
+Other Skills: Responsive & Accessible UI/UX Design | SEO Optimization
 
-React.js | Next.js | Tailwind CSS | ShadCN UI
+APIs: RESTful API Development
 
-Backend Development
-Node.js | Express.js
+Deployment: Vercel
 
-API Development (REST)
+🚀 Featured Projects
+🛒 E-commerce Catalog – Functional shopping cart, checkout system, and order processing via Resend API.
 
-Databases
-MongoDB
+📚 pascal.dev Blog – Dynamic blog with a professional, modern design and SEO optimization.
 
-Tools & Version Control
-Git | GitHub | GitKraken
+💼 Portfolio Website – Personal portfolio showcasing projects, skills, and a functional contact form.
 
-Other Skills
-Responsive & Accessible UI/UX Design
+🧑‍💻 About Me
+I’m a self-taught web developer with over 3 years of hands-on experience building functional and visually striking web applications. My focus is on crafting clean, efficient code and delivering exceptional user experiences.
 
-SEO Optimization
-
-Deployment with Vercel
-
-🌟 About Me
-I am a self-taught web developer with over 3 years of hands-on experience building real-world projects, including:
-
-E-commerce Catalog → Functional shopping cart, checkout, and order processing via Resend API.
-
-pascal.dev Blog → Dynamic content, modern UI/UX, and optimized performance.
-
-Portfolio Website → Showcasing projects, skills, and contact form integration.
-
-I focus on clean code, performance optimization, and delivering visually striking interfaces that provide excellent user experiences.
-
-🎯 Career Goals
-Work as a Frontend or Full-Stack Web Developer in a collaborative and innovative environment.
-
-Expand my knowledge in DevOps and modern deployment pipelines.
-
-Build scalable, impactful projects that merge creativity with functionality.
-
-Let’s connect and create something amazing! 🚀
-
+I’m constantly learning new technologies and improving my skills, aiming to contribute to impactful projects and collaborate with creative, driven teams.

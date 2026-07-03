@@ -1,77 +1,24 @@
-<!-- Profile README – pascal1010100 -->
+# Pascal.dev
 
-<h1 align="center">Hi there 👋</h1>
-<h2 align="center">I'm <span style="color:#00FFFF;">José Manuel Aguilar Cruz</span> — <em>Full-Stack Web Developer</em></h2>
+**Product engineering for systems that need to evolve.**
 
-<p align="center">
-  <strong>Building modern, interactive, high-performance apps</strong><br/>
-  Focused on clean code, great UX, and learning fast ⚡
-</p>
+Building web products, operational systems, and applied AI integrations with clear architecture, thoughtful interfaces, and verifiable delivery.
 
-<p align="center">
-  <a href="mailto:pascal.dev@gmail.com">Email</a> ·
-  <a href="https://portafolio1010100.vercel.app" target="_blank">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/josema-aguilar-dev/" target="_blank">LinkedIn</a> ·
-  <a href="https://github.com/pascal1010100" target="_blank">GitHub</a>
-</p>
+[pascal.dev](https://pascal.dev) · [LinkedIn](https://www.linkedin.com/in/josema-aguilar-dev/) · [Email](mailto:pascal.dev@gmail.com)
 
----
+## Selected work
 
-### 🛠 Tech Stack
+| Project | What it demonstrates | Links |
+| --- | --- | --- |
+| **Mandalas Hostal** | Hospitality experience for two properties, direct Cloudbeds booking, a read-only PMS integration, Vercel observability, and Playwright smoke coverage. | [Live](https://www.mandalashostels.com/) · [Code](https://github.com/pascal1010100/mandalas) |
+| **Nómada Fantasma** | Bilingual platform for tours, transportation, reservations, and verified places around Lake Atitlán. | [Live](https://nomadafantasma.com/es) · [Code](https://github.com/pascal1010100/nomada-fantasma) |
+| **Pascal.dev** | Public engineering portfolio built around evidence, case studies, product decisions, and a reproducible quality baseline. | [Live](https://pascal.dev) · [Code](https://github.com/pascal1010100/portafolio1010100) |
 
-- **Frontend:** HTML, CSS, JavaScript (ES6+), React, Next.js, Tailwind CSS, ShadCN UI  
-- **Backend:** Node.js, Express.js  
-- **Databases:** MongoDB  
-- **Version Control:** Git, GitHub, GitKraken  
-- **Other:** Responsive & Accessible UI/UX, SEO, REST APIs, Vercel (deploy)
+## Focus
 
----
+- Product discovery, architecture, and full-stack delivery
+- Next.js, TypeScript, PostgreSQL, Supabase, and Vercel
+- Applied AI, external APIs, webhooks, and operational automation
+- Testing, CI/CD, accessibility, performance, and maintainable systems
 
-### 🚀 Featured Projects
-
-#### 🛒 E-commerce Catalog (Agroforesta)
-Carrito de compras funcional, checkout y envío de pedidos vía **Resend API**. Interfaz moderna, responsive y con búsqueda.
-- Demo (web): https://catalogo-agroforesta-visu.vercel.app/
-- Stack: Next.js, Tailwind, API Routes, Resend
-
-#### 📚 pascal.dev — Tech Blog
-Blog dinámico con diseño profesional y optimización SEO. Artículos sobre IA, dev y productividad.
-- Demo: https://pascal-dev-0101.vercel.app/
-- Stack: Next.js, Tailwind, App Router
-
-#### 💼 Portfolio Website
-Portafolio personal con proyectos, skills y formulario de contacto funcional.
-- Demo: https://portafolio1010100.vercel.app/
-- Stack: Next.js, Tailwind, ShadCN UI
-
----
-
-### 🧑‍💻 About Me
-
-Autodidacta con +3 años construyendo aplicaciones funcionales y visualmente atractivas.  
-Me encanta iterar rápido, mantener el código limpio y entregar experiencias de usuario sólidas.  
-Busco aportar en proyectos con impacto y colaborar con equipos creativos y motivados.
-
----
-
-### 📬 Contact
-
-- Email: <a href="mailto:pascal.dev@gmail.com">pascal.dev@gmail.com</a>  
-- LinkedIn: <a href="https://www.linkedin.com/in/josema-aguilar-dev/" target="_blank">/in/josema-aguilar-dev/</a>  
-- Portfolio: <a href="https://portafolio1010100.vercel.app" target="_blank">portafolio1010100.vercel.app</a>
-
----
-
-<sub>
-🌌 Aesthetic: dark • retro-futuristic • clean • minimal — aiming for quality, speed, and a great developer experience.
-</sub>
-
-<!-- Optional GitHub widgets (uncomment if you want them) -->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pascal1010100&show_icons=true&hide_border=true" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pascal1010100&hide_border=true" alt="GitHub streak" />
-</p>
--->
+Clarity over noise. Evidence over claims. Software designed to keep evolving.

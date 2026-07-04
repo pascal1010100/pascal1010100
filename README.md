@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pascal.dev" target="_blank">Pascal.dev</a> ·
+  <a href="https://portafolio1010100.vercel.app/" target="_blank">Pascal.dev</a> ·
   <a href="https://www.linkedin.com/in/josema-aguilar-dev/" target="_blank">LinkedIn</a> ·
   <a href="mailto:josemanu0885@gmail.com">Email</a>
 </p>
@@ -45,7 +45,7 @@ Plataforma bilingüe para explorar Guatemala mediante tours, transporte, reserva
 #### 🌌 Pascal.dev
 Portafolio público de ingeniería construido alrededor de casos reales, evidencia verificable, decisiones de producto y una metodología moderna de desarrollo.
 
-- [Sitio web](https://pascal.dev)
+- [Sitio web](https://portafolio1010100.vercel.app/)
 - [Código](https://github.com/pascal1010100/portafolio1010100)
 - **Stack:** Next.js, TypeScript, Three.js, Framer Motion, Resend
 
@@ -63,7 +63,7 @@ Disponible para proyectos seleccionados, colaboraciones y oportunidades profesio
 
 ### 📬 Contact
 
-- **Portfolio:** [pascal.dev](https://pascal.dev)
+- **Portfolio:** [Pascal.dev](https://portafolio1010100.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/josema-aguilar-dev](https://www.linkedin.com/in/josema-aguilar-dev/)
 - **Email:** [josemanu0885@gmail.com](mailto:josemanu0885@gmail.com)
 - **Location:** Guatemala · Remote

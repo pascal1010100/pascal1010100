@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://pascal.dev" target="_blank">Pascal.dev</a> ·
   <a href="https://www.linkedin.com/in/josema-aguilar-dev/" target="_blank">LinkedIn</a> ·
-  <a href="mailto:pascal.dev@gmail.com">Email</a>
+  <a href="mailto:josemanu0885@gmail.com">Email</a>
 </p>
 
 ---
@@ -65,7 +65,7 @@ Disponible para proyectos seleccionados, colaboraciones y oportunidades profesio
 
 - **Portfolio:** [pascal.dev](https://pascal.dev)
 - **LinkedIn:** [linkedin.com/in/josema-aguilar-dev](https://www.linkedin.com/in/josema-aguilar-dev/)
-- **Email:** [pascal.dev@gmail.com](mailto:pascal.dev@gmail.com)
+- **Email:** [josemanu0885@gmail.com](mailto:josemanu0885@gmail.com)
 - **Location:** Guatemala · Remote
 
 ---

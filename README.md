@@ -59,8 +59,7 @@ The initial product validates the complete ordering workflow before introducing 
 
 **Stack:** Next.js, TypeScript, Tailwind CSS, Supabase, PostgreSQL, GitHub Actions, Vercel.
 
-[Live website](https://www.nativamarket.net/) ·
-[Source code](https://github.com/pascal1010100/nativa)
+[Live website](https://www.nativamarket.net/)
 
 ---
 

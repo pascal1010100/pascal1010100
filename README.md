@@ -1,75 +1,134 @@
-<!-- Profile README – pascal1010100 -->
+<!-- GitHub Profile README — pascal1010100 -->
 
-<h1 align="center">Hi there 👋</h1>
-<h2 align="center">I'm José Manuel Aguilar — <em>Product Engineer & Full-Stack Developer</em></h2>
+<h1 align="center">Hi, I'm José Manuel Aguilar 👋</h1>
 
 <p align="center">
-  <strong>Building clear, maintainable digital products that solve real problems.</strong><br/>
-  Product thinking · Full-stack engineering · Applied AI
+  <strong>Next.js Product Developer</strong><br/>
+  Building SaaS products, ecommerce platforms, booking experiences, and third-party integrations.
 </p>
 
 <p align="center">
-  <a href="https://portafolio1010100.vercel.app/" target="_blank">Pascal.dev</a> ·
-  <a href="https://www.linkedin.com/in/josema-aguilar-dev/" target="_blank">LinkedIn</a> ·
+  <a href="https://portafolio1010100.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/josema-aguilar-dev/">LinkedIn</a> ·
   <a href="mailto:josemanu0885@gmail.com">Email</a>
 </p>
 
 ---
 
-### 🛠 Tech Stack
+## What I do
 
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Framer Motion
-- **Backend:** Node.js, Next.js APIs, REST APIs, webhooks
-- **Data:** PostgreSQL, Supabase, Drizzle ORM
-- **Integrations:** OpenAI API, Cloudbeds API, Resend, WhatsApp
-- **Quality & Delivery:** Playwright, Vitest, GitHub Actions, Vercel, Analytics & Speed Insights
+I help businesses turn operational needs and early ideas into clear, maintainable web products.
 
----
+My work combines product thinking, frontend engineering, data workflows, integrations, testing, SEO, and production delivery. I focus on building software that is useful to customers and manageable for the people operating it.
 
-### 🚀 Featured Projects
+I can help with:
 
-#### 🏨 Mandalas Hostal
-Experiencia web y base operativa para dos propiedades en San Pedro La Laguna, con reservas directas en Cloudbeds, integración PMS de solo lectura y observabilidad con Vercel.
-
-- [Sitio web](https://www.mandalashostels.com/)
-- [Código](https://github.com/pascal1010100/mandalas)
-- **Stack:** Next.js 16, TypeScript, Cloudbeds API, Vercel Analytics, Playwright
-
-#### 🗺️ Nómada Fantasma
-Plataforma bilingüe para explorar Guatemala mediante tours, transporte, reservas y un mapa de lugares verificados.
-
-- [Sitio web](https://nomadafantasma.com/es)
-- [Código](https://github.com/pascal1010100/nomada-fantasma)
-- **Stack:** Next.js, TypeScript, Supabase, Leaflet, next-intl
-
-#### 🌌 Pascal.dev
-Portafolio público de ingeniería construido alrededor de casos reales, evidencia verificable, decisiones de producto y una metodología moderna de desarrollo.
-
-- [Sitio web](https://portafolio1010100.vercel.app/)
-- [Código](https://github.com/pascal1010100/portafolio1010100)
-- **Stack:** Next.js, TypeScript, Three.js, Framer Motion, Resend
+- Building or improving React and Next.js products
+- Developing focused MVP features
+- Creating ecommerce and booking experiences
+- Integrating APIs, payments, analytics, and external platforms
+- Improving accessibility, performance, SEO, and maintainability
+- Adding automated testing and reliable delivery workflows
 
 ---
 
-### 🧑‍💻 About Me
+## Selected projects
 
-Desarrollo productos digitales de principio a fin: desde discovery y arquitectura hasta interfaz, integración, pruebas y despliegue.
+### 🏨 Mandalas Hostels
 
-Actualmente trabajo con plataformas web, sistemas para operaciones reales e integraciones con IA y servicios externos. Me interesa construir software claro, mantenible y preparado para evolucionar.
+A production hospitality experience for two properties in San Pedro La Laguna, Guatemala.
 
-Disponible para proyectos seleccionados, colaboraciones y oportunidades profesionales remotas.
+The platform helps guests understand each property and reach the correct Cloudbeds booking flow. It also includes analytics, conversion tracking, responsive navigation, technical SEO, and automated browser testing.
 
----
+**Key work:** Product development, UX, Cloudbeds integration, analytics, SEO, testing, and deployment.
 
-### 📬 Contact
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, Cloudbeds API, PostHog, Playwright, Vitest, Vercel.
 
-- **Portfolio:** [Pascal.dev](https://portafolio1010100.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/josema-aguilar-dev](https://www.linkedin.com/in/josema-aguilar-dev/)
-- **Email:** [josemanu0885@gmail.com](mailto:josemanu0885@gmail.com)
-- **Location:** Guatemala · Remote
+[Live website](https://www.mandalashostels.com/) ·
+[Source code](https://github.com/pascal1010100/mandalas)
 
 ---
 
-<sub>
-🌌 Dark · spatial · minimal — product engineering with clarity, evidence, and attention to detail.
-</sub>
+### 🛍️ Nativa Market
+
+An operational ecommerce platform with a public catalog, shopping cart, checkout, order management, and a protected administration area.
+
+The initial product validates the complete ordering workflow before introducing unnecessary marketplace complexity.
+
+**Key work:** Product scope, storefront UX, order workflows, administration, database integration, SEO, analytics, and production deployment.
+
+**Stack:** Next.js, TypeScript, Tailwind CSS, Supabase, PostgreSQL, GitHub Actions, Vercel.
+
+[Live website](https://www.nativamarket.net/) ·
+[Source code](https://github.com/pascal1010100/nativa)
+
+---
+
+### 🗺️ Nómada Fantasma
+
+A bilingual platform for discovering Guatemala through tours, transportation, reservations, and an interactive map of selected destinations.
+
+**Key work:** Product development, multilingual UX, responsive interfaces, geographic exploration, and data workflows.
+
+**Stack:** Next.js, TypeScript, Supabase, Leaflet, next-intl.
+
+[Live website](https://nomadafantasma.com/es) ·
+[Source code](https://github.com/pascal1010100/nomada-fantasma)
+
+---
+
+### 🌌 Pascal.dev
+
+My public engineering portfolio, built around real projects, product decisions, technical evidence, and clear paths for collaboration.
+
+The experience uses purposeful motion and 3D elements while preserving accessibility, responsiveness, and content clarity.
+
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, Three.js, Framer Motion, Playwright.
+
+[View portfolio](https://portafolio1010100.vercel.app/) ·
+[Source code](https://github.com/pascal1010100/portafolio1010100)
+
+---
+
+## Core capabilities
+
+| Area | Technologies and practices |
+|---|---|
+| Product & frontend | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
+| Data | PostgreSQL, Supabase, SQL |
+| Integrations | REST APIs, webhooks, Stripe, OpenAI API, Cloudbeds |
+| Product quality | Responsive UX, accessibility, performance, technical SEO |
+| Testing & delivery | Playwright, continuous integration, Vercel, analytics |
+
+---
+
+## How I work
+
+1. Understand the business problem and the people affected by it.
+2. Define the smallest valuable and achievable scope.
+3. Build a clear, responsive, and maintainable solution.
+4. Integrate the required services and data workflows.
+5. Test the important user journeys.
+6. Deploy, measure, document, and improve.
+
+---
+
+## Currently open to
+
+- Remote frontend and product engineering opportunities
+- Focused Next.js and React projects
+- SaaS, ecommerce, and booking products
+- API and third-party integration work
+- Long-term product collaborations
+
+Based in **Guatemala (UTC-6)** and available for remote collaboration up to 30 hours per week.
+
+---
+
+## Let's talk
+
+If you are building or improving a web product, I would be happy to learn about the problem you are solving.
+
+[Portfolio](https://portafolio1010100.vercel.app/) ·
+[LinkedIn](https://www.linkedin.com/in/josema-aguilar-dev/) ·
+[Email](mailto:josemanu0885@gmail.com)

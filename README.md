@@ -42,7 +42,7 @@ The platform helps guests understand each property and reach the correct Cloudbe
 
 **Key work:** Product development, UX, Cloudbeds integration, analytics, SEO, testing, and deployment.
 
-**Stack:** Next.js, React, TypeScript, Tailwind CSS, Cloudbeds API, PostHog, Playwright, Vitest, Vercel.
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, Cloudbeds API, Playwright.
 
 [Live website](https://www.mandalashostels.com/) ·
 [Source code](https://github.com/pascal1010100/mandalas)
@@ -57,7 +57,7 @@ The initial product validates the complete ordering workflow before introducing 
 
 **Key work:** Product scope, storefront UX, order workflows, administration, database integration, SEO, analytics, and production deployment.
 
-**Stack:** Next.js, TypeScript, Tailwind CSS, Supabase, PostgreSQL, GitHub Actions, Vercel.
+**Stack:** Next.js, TypeScript, Tailwind CSS, Supabase, PostgreSQL.
 
 [Live website](https://www.nativamarket.net/)
 
@@ -69,7 +69,7 @@ A bilingual platform for discovering Guatemala through tours, transportation, re
 
 **Key work:** Product development, multilingual UX, responsive interfaces, geographic exploration, and data workflows.
 
-**Stack:** Next.js, TypeScript, Supabase, Leaflet, next-intl.
+**Stack:** Next.js, TypeScript, Supabase.
 
 [Live website](https://nomadafantasma.com/es) ·
 [Source code](https://github.com/pascal1010100/nomada-fantasma)
@@ -82,7 +82,7 @@ My public engineering portfolio, built around real projects, product decisions, 
 
 The experience uses purposeful motion and 3D elements while preserving accessibility, responsiveness, and content clarity.
 
-**Stack:** Next.js, React, TypeScript, Tailwind CSS, Three.js, Framer Motion, Playwright.
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, Playwright.
 
 [View portfolio](https://portafolio1010100.vercel.app/) ·
 [Source code](https://github.com/pascal1010100/portafolio1010100)
@@ -94,10 +94,10 @@ The experience uses purposeful motion and 3D elements while preserving accessibi
 | Area | Technologies and practices |
 |---|---|
 | Product & frontend | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
-| Data | PostgreSQL, Supabase, SQL |
+| Data | PostgreSQL, Supabase |
 | Integrations | REST APIs, webhooks, Stripe, OpenAI API, Cloudbeds |
 | Product quality | Responsive UX, accessibility, performance, technical SEO |
-| Testing & delivery | Playwright, continuous integration, Vercel, analytics |
+| Testing & delivery | Playwright, continuous integration, deployment, analytics |
 
 ---
 
@@ -120,7 +120,7 @@ The experience uses purposeful motion and 3D elements while preserving accessibi
 - API and third-party integration work
 - Long-term product collaborations
 
-Based in **Guatemala (UTC-6)** and available for remote collaboration up to 30 hours per week.
+Based in **Guatemala (UTC-6)**, with **English B2**, and available for remote collaboration up to 30 hours per week. Contract target: **USD 35/hour**; preferred floor: **USD 30/hour**.
 
 ---
 

@@ -120,7 +120,7 @@ The experience uses purposeful motion and 3D elements while preserving accessibi
 - API and third-party integration work
 - Long-term product collaborations
 
-Based in **Guatemala (UTC-6)**, with **English B2**, and available for remote collaboration up to 30 hours per week. Contract target: **USD 35/hour**; preferred floor: **USD 30/hour**.
+Based in **Guatemala (UTC-6)**, with **English B2**, and available for remote collaboration up to 30 hours per week. Contract target: **USD 35/hour**.
 
 ---
 

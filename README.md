@@ -51,15 +51,15 @@ The platform helps guests understand each property and reach the correct Cloudbe
 
 ### 🛍️ Nativa Market
 
-An operational ecommerce platform with a public catalog, shopping cart, checkout, order management, and a protected administration area.
+An ecommerce demo project exploring catalog browsing, shopping cart, checkout, order management, and administration workflows.
 
-The initial product validates the complete ordering workflow before introducing unnecessary marketplace complexity.
+The project focuses on developing and testing the ordering experience before expanding its scope.
 
-**Key work:** Product scope, storefront UX, order workflows, administration, database integration, SEO, analytics, and production deployment.
+**Key work:** Product scope, storefront UX, order workflows, administration, database integration, SEO, and analytics.
 
 **Stack:** Next.js, TypeScript, Tailwind CSS, Supabase, PostgreSQL.
 
-[Live website](https://nativa-gamma.vercel.app/)
+[Demo](https://nativa-gamma.vercel.app/)
 
 ---
 
